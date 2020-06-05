@@ -1,0 +1,5 @@
+Estado inicial:  [0]
+Estado(s) de aceptación:  [1, 2]
+Estados:  [0, 1, 2]
+Símbolos:  ['0123456789']
+Transiciones:  [[0, 1, '0123456789'], [1, 2, '0123456789'], [2, 2, '0123456789']]
